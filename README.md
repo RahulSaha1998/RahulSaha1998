@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **JavaScript, React Js, MongoDB, Tailwind, Bootstrap**
+- 💬 Ask me about **JavaScript, React Js**
 
 - 📫 How to reach me **rahulsaha87928@gmail.com**
 
