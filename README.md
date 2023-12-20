@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsaha1998&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsaha1998" /> </p>
 
-- 🔭 I’m currently looking for **exciting job opportunities in Web Development.**
+- 🔭 I’m currently working at BERI as a **Software Developer**
 
 - 🌱 I’m currently learning **React JS**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rahulsaha87928@gmail.com**
 
-- ⚡ Fun fact **I Think I am Lazy But Quick Learner.**
+- ⚡ Fun fact **I Think I am Lazy But a Quick Learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
